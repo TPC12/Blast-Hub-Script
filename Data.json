@@ -1,0 +1,364 @@
+{
+  "version": "1.0",
+  "window": {
+    "title": "Blast Hub",
+    "icon": "flame",
+    "author": "Powered by TPC",
+    "folder": "BlastHub",
+    "theme": "Dark"
+  },
+  "social": [
+    {
+      "title": "YouTube",
+      "desc": "Sub to TPC",
+      "image": "https://i.postimg.cc/G3S88tzs/You-Tube.png",
+      "url": "https://youtube.com/@tpc_tuberblx?si=Th7dMkhZ8OIUcL3-"
+    },
+    {
+      "title": "Discord",
+      "desc": "Robux giveaways",
+      "image": "https://i.postimg.cc/Y0PY7fbD/Discord.png",
+      "url": "https://discord.gg/CZh7ZHB6ag"
+    },
+    {
+      "title": "Telegram",
+      "desc": "Join for the latest news",
+      "image": "https://i.postimg.cc/Dfpq1nnr/Telegram.png",
+      "url": "https://t.me/tpc2009"
+    }
+  ],
+  "tabs": [
+    {
+      "title": "Menu",
+      "icon": "house",
+      "sections": []
+    },
+    {
+      "title": "Scripts",
+      "icon": "file-code",
+      "sections": [
+        {
+          "title": "↓ Simple Scripts ↓",
+          "items": [
+            {
+              "type": "remote",
+              "title": "Fly Script",
+              "desc": "Fly anywhere",
+              "url": "https://pastebin.com/raw/a0A1HQDE"
+            },
+            {
+              "type": "remote",
+              "title": "RTX Script",
+              "desc": "Makes the game more realistic",
+              "url": "https://pastebin.com/raw/BdWMGnpU"
+            },
+            {
+              "type": "remote",
+              "title": "Animation Script",
+              "desc": "Get any animation for free",
+              "url": "https://pastebin.com/raw/Uq8vajaM"
+            },
+            {
+              "type": "remote",
+              "title": "NoClip Script",
+              "desc": "Easily walk through walls",
+              "url": "https://pastebin.com/raw/eHirsG1T"
+            },
+            {
+              "type": "remote",
+              "title": "Admin Script",
+              "desc": "Get all admin features for free",
+              "url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Blox Fruits",
+      "icon": "gamepad-2",
+      "sections": [
+        {
+          "title": "↓ Blox Fruits Scripts ↓",
+          "items": [
+            {
+              "type": "remote",
+              "title": "REDz Hub",
+              "desc": "KEYLESS",
+              "url": "https://raw.githubusercontent.com/UCT-hub/main/refs/heads/main/redz-v2"
+            },
+            {
+              "type": "remote",
+              "title": "Fish Hub",
+              "desc": "KEYLESS",
+              "url": "https://gitlab.com/lotongroup/script/-/raw/main/FishHub.lua"
+            },
+            {
+              "type": "remote",
+              "title": "Cokka Hub",
+              "desc": "KEY",
+              "url": "https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua"
+            },
+            {
+              "type": "remote",
+              "title": "HoHo Hub",
+              "desc": "KEY",
+              "url": "https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Murder Mystery 2",
+      "icon": "swords",
+      "sections": [
+        {
+          "title": "↓ MM2 Scripts ↓",
+          "items": [
+            {
+              "type": "remote",
+              "title": "Onyx",
+              "desc": "KEYLESS",
+              "url": "https://onyxscripts.xyz/"
+            },
+            {
+              "type": "asset",
+              "title": "Vynixu",
+              "desc": "KEYLESS",
+              "asset": "rbxassetid://4001118261"
+            },
+            {
+              "type": "remote",
+              "title": "Magixx",
+              "desc": "KEYLESS",
+              "url": "https://pastebin.com/raw/1shHyM48"
+            },
+            {
+              "type": "remote",
+              "title": "Waguri",
+              "desc": "KEYLESS",
+              "url": "https://raw.githubusercontent.com/Waguriiiii/Murder-mystery-2/refs/heads/main/Waguri.lua"
+            },
+            {
+              "type": "remote",
+              "title": "Vertex",
+              "desc": "KEYLESS",
+              "url": "https://rawscripts.net/raw/Murder-Mystery-2-nexus-updated-15270"
+            },
+            {
+              "type": "remote",
+              "title": "HoneLua",
+              "desc": "KEY",
+              "url": "https://raw.githubusercontent.com/ThatSick/HoneyLua/refs/heads/main/Loader.luau"
+            },
+            {
+              "type": "empty",
+              "title": "???",
+              "desc": "???"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keyboard Map",
+      "icon": "keyboard",
+      "sections": [
+        {
+          "title": "↓ Keyboard Map Scripts ↓",
+          "items": [
+            {
+              "type": "remote",
+              "title": "Script 1",
+              "desc": "KEYLESS",
+              "url": "https://api.jnkie.com/api/v1/luascripts/public/4386aea55612ce01731b47a200b9279bdd9edb81f99334a11e874017e5810257/download"
+            },
+            {
+              "type": "empty",
+              "title": "Button",
+              "desc": "Test Button"
+            },
+            {
+              "type": "empty",
+              "title": "Button",
+              "desc": "Test Button"
+            },
+            {
+              "type": "empty",
+              "title": "Button",
+              "desc": "Test Button"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Steal a Egg",
+      "icon": "egg",
+      "sections": [
+        {
+          "items": [
+            {
+              "type": "empty",
+              "title": "Button",
+              "desc": "Test Button"
+            },
+            {
+              "type": "empty",
+              "title": "Button",
+              "desc": "Test Button"
+            },
+            {
+              "type": "empty",
+              "title": "Button",
+              "desc": "Test Button"
+            },
+            {
+              "type": "empty",
+              "title": "Button",
+              "desc": "Test Button"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coming Soon",
+      "icon": "clock",
+      "sections": [
+        {
+          "title": "In Progress"
+        }
+      ]
+    },
+    {
+      "title": "Coming Soon",
+      "icon": "clock",
+      "sections": [
+        {
+          "title": "In Progress"
+        }
+      ]
+    },
+    {
+      "title": "Visuals",
+      "icon": "sparkles",
+      "sections": [
+        {
+          "title": "↓ Graphics Control ↓",
+          "items": [
+            {
+              "type": "builtin",
+              "id": "anti_lag",
+              "title": "Anti Lag",
+              "desc": "Reduce lag"
+            },
+            {
+              "type": "builtin",
+              "id": "anti_afk",
+              "title": "Anti AFK",
+              "desc": "You will not be kicked after 20 minutes"
+            },
+            {
+              "type": "builtin",
+              "id": "anti_fling",
+              "title": "Anti Fling",
+              "desc": "No one can fling you"
+            },
+            {
+              "type": "builtin",
+              "id": "esp",
+              "title": "ESP",
+              "desc": "See all players"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Player",
+      "icon": "user",
+      "sections": [
+        {
+          "title": "↓ Player Settings ↓",
+          "items": [
+            {
+              "type": "slider",
+              "id": "speed",
+              "title": "Speed",
+              "desc": "Set speed",
+              "min": 16,
+              "max": 200,
+              "default": 16
+            },
+            {
+              "type": "slider",
+              "id": "jump",
+              "title": "Jump",
+              "desc": "Set jump power",
+              "min": 50,
+              "max": 300,
+              "default": 50
+            },
+            {
+              "type": "slider",
+              "id": "gravity",
+              "title": "Gravity",
+              "desc": "Set gravity",
+              "min": 0,
+              "max": 500,
+              "default": 196
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Settings",
+      "icon": "bolt",
+      "sections": [
+        {
+          "title": "↓ Script Settings ↓",
+          "items": [
+            {
+              "type": "dropdown",
+              "id": "themes",
+              "title": "Themes",
+              "desc": "Change the UI theme"
+            }
+          ]
+        },
+        {
+          "title": "↓ Server ↓",
+          "items": [
+            {
+              "type": "builtin",
+              "id": "rejoin",
+              "title": "Rejoin",
+              "desc": "Rejoin the current server"
+            },
+            {
+              "type": "builtin",
+              "id": "new_server",
+              "title": "New Server",
+              "desc": "Join another server"
+            },
+            {
+              "type": "builtin",
+              "id": "small_server",
+              "title": "Small Server",
+              "desc": "Join a server with fewer players"
+            },
+            {
+              "type": "builtin",
+              "id": "kick",
+              "title": "Kick Yourself",
+              "desc": "You will be kicked from the game"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
